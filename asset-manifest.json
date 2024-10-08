@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.ba0d69a1.css",
+    "main.js": "/MyPortfolio/static/js/main.8857afb3.js",
+    "static/media/coding.gif": "/MyPortfolio/static/media/coding.18bcba89d4290c3f7580.gif",
+    "static/media/Learning-mangement-system.png": "/MyPortfolio/static/media/Learning-mangement-system.a4c33eda0f408e5d9630.png",
+    "static/media/Hospital-administration-system.png": "/MyPortfolio/static/media/Hospital-administration-system.8b08e83d17aaa67a20fc.png",
+    "static/media/Agustina-Signature.otf": "/MyPortfolio/static/media/Agustina-Signature.320d237b3c9e9e794388.otf",
+    "static/media/Chat-application.png": "/MyPortfolio/static/media/Chat-application.b42ef15b17d348d0ecfa.png",
+    "static/media/HR-dashboard.png": "/MyPortfolio/static/media/HR-dashboard.c1dadade7ae03a21cabc.png",
+    "static/media/php-icon.svg": "/MyPortfolio/static/media/php-icon.1619ffb7002606245a66c46f7b2a0ce2.svg",
+    "static/media/postman.svg": "/MyPortfolio/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
+    "static/media/bootstrap-logo.svg": "/MyPortfolio/static/media/bootstrap-logo.402e1df73a2b0f2f6f51d88bd9ca642e.svg",
+    "static/media/reactjs-logo.svg": "/MyPortfolio/static/media/reactjs-logo.19df4041a7c4767ba9dfb2ef654fe858.svg",
+    "static/media/vs-code-logo.svg": "/MyPortfolio/static/media/vs-code-logo.3d8fea0ed9043ed9bf421bbdb507a21e.svg",
+    "static/media/c--4.svg": "/MyPortfolio/static/media/c--4.04d9d2bb18b9781567f7340691dcc686.svg",
+    "static/media/nodejs-icon.svg": "/MyPortfolio/static/media/nodejs-icon.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/git-logo.svg": "/MyPortfolio/static/media/git-logo.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/java-icon.svg": "/MyPortfolio/static/media/java-icon.3c5854fce4aa30ad19d569c45d5ce874.svg",
+    "static/media/javascript-logo.svg": "/MyPortfolio/static/media/javascript-logo.87a6904ffa190a37c824d0b73ff669c4.svg",
+    "static/media/github-logo.svg": "/MyPortfolio/static/media/github-logo.404ff619057c051258a81f63d464629e.svg",
+    "static/media/expressjs-icon.svg": "/MyPortfolio/static/media/expressjs-icon.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.ba0d69a1.css.map": "/MyPortfolio/static/css/main.ba0d69a1.css.map",
+    "main.8857afb3.js.map": "/MyPortfolio/static/js/main.8857afb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0d69a1.css",
+    "static/js/main.8857afb3.js"
+  ]
+}
